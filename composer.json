@@ -1,0 +1,14 @@
+{
+    "name": "apiee/composerdemo",
+    "description": "test project",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "ee",
+            "email": "ee@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
