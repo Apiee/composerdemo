@@ -1,7 +1,7 @@
 {
     "name": "apiee/composerdemo",
     "description": "test project",
-    "type": "project",
+    "type": "library",
     "license": "mit",
     "authors": [
         {
