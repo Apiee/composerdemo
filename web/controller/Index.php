@@ -13,6 +13,7 @@ class Index
     {
     	// echo   $this->view->make('index');
         return $this->view->make('index')->with('version','版本1.0');
+        // echo "baicai";
     }
 
     public function post()
